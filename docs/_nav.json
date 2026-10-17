@@ -1,0 +1,5 @@
+[
+  { "text": "CLI", "link": "/cli/", "activeMatch": "^/cli/" },
+  { "text": "Patterns", "link": "/patterns/", "activeMatch": "^/patterns/" },
+  { "text": "Concepts", "link": "/concepts/", "activeMatch": "^/concepts/" }
+]
